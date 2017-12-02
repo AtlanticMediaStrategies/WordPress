@@ -1,0 +1,12 @@
+{
+    "name": "ams/wordpress",
+    "description": "Base file for WordPress",
+    "type": "wordpress-core",
+    "authors": [
+        {
+            "name": "Russell Vea",
+            "email": "russellbvea@gmail.com"
+        }
+    ],
+    "require": {}
+}
